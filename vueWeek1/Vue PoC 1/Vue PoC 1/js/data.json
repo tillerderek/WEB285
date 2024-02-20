@@ -1,0 +1,134 @@
+{
+  "albums": [
+    {
+      "title": "Beatlemania! With the Beatles",
+      "released": "1963-11-22",
+      "url": "https://en.wikipedia.org/wiki/With_the_Beatles"
+    },
+    {
+      "title": "Introducing... The Beatles",
+      "released": "1964-01-10",
+      "url": "https://en.wikipedia.org/wiki/Introducing..._The_Beatles"
+    },
+    {
+      "title": "Meet the Beatles!",
+      "released": "1964-01-20",
+      "url": "https://en.wikipedia.org/wiki/Meet_the_Beatles!"
+    },
+    {
+      "title": "The Beatles with Tony Sheridan and Their Guests",
+      "released": "1964-02-03",
+      "url": "https://en.wikipedia.org/wiki/The_Beatles_with_Tony_Sheridan_and_Their_Guests"
+    },
+    {
+      "title": "Twist and Shout",
+      "released": "1964-02-03",
+      "url": "https://en.wikipedia.org/wiki/Twist_and_Shout_(album)"
+    },
+    {
+      "title": "The Beatles's Second Album",
+      "released": "1964-04-10",
+      "url": "https://en.wikipedia.org/wiki/The_Beatles%27_Second_Album"
+    },
+    {
+      "title": "The Beatles's Long Tall Sally",
+      "released": "1964-05-11",
+      "url": "https://en.wikipedia.org/wiki/The_Beatles%27_Long_Tall_Sally"
+    },
+    {
+      "title": "A Hard Day's Night",
+      "released": "1964-06-26",
+      "url": "https://en.wikipedia.org/wiki/A_Hard_Day%27s_Night_(album)#North_American_release"
+    },
+    {
+      "title": "Something New",
+      "released": "1964-07-20",
+      "url": "https://en.wikipedia.org/wiki/Something_New_(Beatles_album)"
+    },
+    {
+      "title": "Hear the Beatles Tell All (Interview album)",
+      "released": "1964-11",
+      "url": "https://en.wikipedia.org/wiki/Hear_the_Beatles_Tell_All"
+    },
+    {
+      "title": "Ain't She Sweet",
+      "released": "1964-10-05",
+      "url": "https://en.wikipedia.org/wiki/Ain%27t_She_Sweet_(album)"
+    },
+    {
+      "title": "The Beatles' Story",
+      "released": "1964-11-23",
+      "url": "https://en.wikipedia.org/wiki/The_Beatles%27_Story"
+    },
+    {
+      "title": "Beatles '65",
+      "released": "1964-12-15",
+      "url": "https://en.wikipedia.org/wiki/Beatles_%2765"
+    },
+    {
+      "title": "The Early Beatles",
+      "released": "1965-03-22",
+      "url": "https://en.wikipedia.org/wiki/The_Early_Beatles"
+    },
+    {
+      "title": "Beatles VI",
+      "released": "1965-06-14",
+      "url": "https://en.wikipedia.org/wiki/Beatles_VI"
+    },
+    {
+      "title": "Help!",
+      "released": "1965-08-13",
+      "url": "https://en.wikipedia.org/wiki/Help!#North_American_Capitol_release"
+    },
+    {
+      "title": "Rubber Soul",
+      "released": "1965-12-03",
+      "url": "https://en.wikipedia.org/wiki/Rubber_Soul#Original_North_American_release"
+    },
+    {
+      "title": "Yesterday and Today",
+      "released": "1966-06-15",
+      "url": "https://en.wikipedia.org/wiki/Yesterday_and_Today"
+    },
+    {
+      "title": "Revolver",
+      "released": "1966-08-05",
+      "url": "https://en.wikipedia.org/wiki/Revolver_(Beatles_album)#North_American_format"
+    },
+    {
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "released": "1967-05-26",
+      "url": "https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band"
+    },
+    {
+      "title": "Magical Mystery Tour",
+      "released": "1967-11-27",
+      "url": "https://en.wikipedia.org/wiki/Magical_Mystery_Tour"
+    },
+    {
+      "title": "The Beatles (The White Album)",
+      "released": "1968-11-22",
+      "url": "https://en.wikipedia.org/wiki/The_Beatles_(album)"
+    },
+    {
+      "title": "Yellow Submarine",
+      "released": "1969-11-13",
+      "url": "https://en.wikipedia.org/wiki/Yellow_Submarine_(album)"
+    },
+    {
+      "title": "Abbey Road",
+      "released": "1969-09-26",
+      "url": "https://en.wikipedia.org/wiki/Abbey_Road"
+    },
+    {
+      "title": "Hey Jude",
+      "released": "1970-02-26",
+      "url": "https://en.wikipedia.org/wiki/Hey_Jude_(Beatles_album)"
+    },
+    {
+      "title": "Let It Be",
+      "released": "1970-05-08",
+      "url": "https://en.wikipedia.org/wiki/Let_It_Be_(Beatles_album)"
+    }
+  ]
+}

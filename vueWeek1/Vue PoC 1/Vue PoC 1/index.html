@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/poc1.css">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="js/vue-poc1.js"></script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+  </head>
+
+  <body>
+    <div id="app">
+      <h1 v-text="listName"></h1>
+      <p id="total">Albums found: <span v-text="albums.length"></span></p>
+      <input type="checkbox" id="date-box" v-model="showDates">
+      <label for="date-box">Show dates</label><br>
+      <span id="number" v-text="i+1"></span>
+      <a :href="albums[i].url" v-text="albums[i].title" target="_blank"></a>
+      <span id="date" v-text="showDates ? albums[i].released: ''"></span>
+      <hr>
+      <button @click="moveBack">Previous</button>
+      <button @click="moveForward">Next</button>
+    </div>
+  </body>
+
+</html>
